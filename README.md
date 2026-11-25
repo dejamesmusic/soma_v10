@@ -1,3 +1,5 @@
+> **moved.** this version now lives in [dejamesmusic/soma](https://github.com/dejamesmusic/soma) under `runtimes/v10`, beside every other version of soma, with its history. this repository is archived.
+
 # soma script bundle
 
 This is the terminal version of soma. It is for people who want to run soma in their own Python environment, on a rented GPU, on Linux, or anywhere the macOS app is not the right fit.
